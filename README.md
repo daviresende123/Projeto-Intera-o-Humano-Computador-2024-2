@@ -61,8 +61,6 @@ O protótipo do E-Duca! demonstrou potencial significativo para, se implementado
 ## 🔗 Links
 
 - [Protótipo no Figma](https://www.figma.com/proto/1YNIrw5d0jJRmOv5J4ifKH/Projeto-IHC)
-- [Artigo Completo](link-para-o-artigo) <!-- Sugestão: adicione o link quando disponível -->
-- [Relatório Final](link-para-o-relatório) <!-- Sugestão: adicione o link quando disponível -->
 
 ## 👥 Equipe
 
